@@ -13,7 +13,7 @@ Projekt zrealizowany jako zaliczenie z przedmiotu **Fizyka Ogólna**, demonstruj
 | Faza początkowa (Wysoka Temp.) | Faza końcowa (Niska Temp.) |
 |:------------------------------:|:--------------------------:|
 | ![Chaos](faza1.png) | ![Kryształ](faza3.png) |
-*Zrzuty ekranu przedstawiające ewolucję układu od stanu chaotycznego (gaz) do uporządkowanego (kryształ).*
+
 
 ---
 
