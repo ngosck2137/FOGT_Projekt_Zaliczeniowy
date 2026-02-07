@@ -4,7 +4,7 @@
 
 Interaktywna wizualizacja algorytmu **Symulowanego Wyżarzania** (Simulated Annealing) rozwiązująca klasyczny **Problem Komiwojażera** (TSP). 
 
-Projekt zrealizowany jako zaliczenie z przedmiotu **Fizyka Ogólna / Fizyka Komputerowa**, demonstrujący zastosowanie termodynamiki statystycznej w optymalizacji kombinatorycznej.
+Projekt zrealizowany jako zaliczenie z przedmiotu **Fizyka Ogólna**, demonstrujący zastosowanie termodynamiki statystycznej w optymalizacji kombinatorycznej.
 
 ---
 
@@ -12,7 +12,7 @@ Projekt zrealizowany jako zaliczenie z przedmiotu **Fizyka Ogólna / Fizyka Komp
 
 | Faza początkowa (Wysoka Temp.) | Faza końcowa (Niska Temp.) |
 |:------------------------------:|:--------------------------:|
-| ![Chaos](faza1.png) | ![Kryształ](faza2.png) |
+| ![Chaos](faza1.png) | ![Kryształ](faza3.png) |
 *Zrzuty ekranu przedstawiające ewolucję układu od stanu chaotycznego (gaz) do uporządkowanego (kryształ).*
 
 ---
